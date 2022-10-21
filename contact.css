@@ -1,0 +1,39 @@
+                            /* Contact Us */
+
+.location{
+    display: flex;
+    margin-top: 100px;
+}
+.location-left{
+    width: 50%;
+}
+.location-right{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.zipcode{
+    width: 270px;
+    font: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+}
+                                /* map */
+
+.map-left{
+    width: 50%;
+    margin-bottom: 100px;
+ }
+ .map-left textarea{
+    width: 605px;
+    height: 160px;
+ }
+ .map{
+    display: flex;
+ }
+ .map-right img{
+    border-radius: 20px;
+ }

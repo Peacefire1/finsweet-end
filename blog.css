@@ -1,0 +1,9 @@
+.News-main{
+    flex-wrap: wrap;
+}
+.News-main .news-words{
+    background-color: #EDF7FF;
+}
+.News-main a{
+    margin: 10px;
+}

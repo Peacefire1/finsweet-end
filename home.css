@@ -5,7 +5,7 @@
 
 .row{
     background-color: #DCEAF5;
-    height: 703px;
+    height: 1%;
 }
 
 
@@ -20,8 +20,8 @@
     display: flex;
 }
 .rowright img{
-    margin-top: 8%;
-    margin-left: 15%;
+    width: 130%;
+    
 }
 #servecis{
     display: flex;
@@ -350,5 +350,4 @@ b{
     color: #FFFFFF;
     text-align: center;
     padding-top: 40px;
-}
-                                            
+}                                      

@@ -96,7 +96,7 @@
 .cardsup{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 10%;
+    margin-bottom: 50px;
 }
 .cardicons{
     width: 401px;
@@ -141,12 +141,12 @@ b{
 .row4right{
     border-radius: 20px;
     width: 50%;
-    height: 688px;
+    height: 650px;
     background: url(./images/about-image.png);
 }
 #multiply{
     width: 25%;
-    height: 688px;
+    height: 650px;
     border-radius: 20px 0 0 20px;
     background-color: #F58A07;
     mix-blend-mode: multiply;
@@ -350,4 +350,7 @@ b{
     color: #FFFFFF;
     text-align: center;
     padding-top: 40px;
-}                                      
+}                                
+.head menu:nth-child(1){
+    color: #F58A07;
+}

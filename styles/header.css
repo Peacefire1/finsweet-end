@@ -23,9 +23,10 @@ header{
     list-style: none;
 }
 .menu{
-    color: #0D1317;
+    color: #0f0f0e;
 }
 .menu:hover{
+    color: #F58A07;
     opacity: 0.5;
 }
 .head nav{
@@ -38,4 +39,10 @@ button{
     width: 173px;
     height: 52px;
     background-color: #f58a072c;
+}
+button:hover{
+    opacity: 0.5;
+}
+.nav-home{
+    color: #F58A07;
 }
